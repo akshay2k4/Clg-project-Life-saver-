@@ -39,10 +39,9 @@ Using an **IR sensor**, **Arduino Uno**, and a **Python script**, this hands-fre
 | PySerial     | Serial communication between Arduino and Python       |
 
 Install PySerial:
-```bash
+
+
 pip install pyserial
-
-
 
 
 🔌 Setup Instructions
@@ -75,4 +74,10 @@ Configure Python Script:
 Update the COM port in life_saver.py
 
 Replace the default URL with your desired study resource (Google Classroom, Notion, PDF, etc.)
+
+
+
+
+
+
 
